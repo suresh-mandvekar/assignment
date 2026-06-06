@@ -1,14 +1,5 @@
-# assignment 5 
+i have made journal entries which stores data in page state
+<img width="1080" height="2400" alt="Screenshot_20260606_213240" src="https://github.com/user-attachments/assets/7dbf2962-b0fb-48c5-883c-f9099092f131" />
+<img width="1080" height="2400" alt="Screenshot_20260606_213504" src="https://github.com/user-attachments/assets/342de2e7-f422-400e-a3dd-b2ab6488aee8" />
 
-<img width="356" height="794" alt="image" src="https://github.com/user-attachments/assets/92d34ec7-cbcf-41a5-b059-ca66f1b58de0" />
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Screen_recording_20260606_213121.webm](https://github.com/user-attachments/assets/d8d7e182-6dbc-40b5-8777-c0e6fbf49ce5)
